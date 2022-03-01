@@ -10,6 +10,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Currently I'm working on this aplication wich would help Ukranian people by alllowing them to send text messages to Russian phone numbers with text messages desribing acctual and real situation in Ukraine. This is, due to Russia restrictions, impossible now.
+Currently, I'm working on this application which would help Ukrainian people by allowing them to send text messages to Russian phone numbers with text messages describing an actual and real situation in Ukraine. This is, due to Russian restrictions, impossible now.
 
-Second part of an application will be the messaging system itselve, htat allows Ukraine supporters from all over the world act as proxy.
+The second part of an application will be the messaging system itself, which allows Ukraine supporters from all over the world to act as a proxy.
